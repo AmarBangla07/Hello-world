@@ -1,2 +1,2 @@
 # Hello-world
-A simple test program
+This is a simple project that will print the world " hello world " .
